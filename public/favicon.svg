@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+<rect width="64" height="64" rx="15" fill="#1D3245"/>
+<path d="M7 50 39 8h18L24 56H7z" fill="#37546D"/>
+<path d="M43 56h14V39L48 48z" fill="#AB987D"/>
+<text x="12" y="41" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#F7F9FB">AE</text>
+<circle cx="51" cy="13" r="4" fill="#DBC7B0"/>
+</svg>
